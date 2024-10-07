@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ex003</string>
+    <string name="mainTitle">Área do trapézio</string>
+    <string name="altura">Altura</string>
+    <string name="baseMenor">Base menor</string>
+    <string name="baseMaior">Base maior</string>
+    <string name="author_data">Renan Santos Carvalho\n1110482313034</string>
+    <string name="calculateButton">Calcular!</string>
+    <string name="resultado">Área: </string>
+</resources>
